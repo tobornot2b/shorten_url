@@ -1,0 +1,11 @@
+/.ipynb_checkpoints
+/__pycache__
+
+
+*.dll
+*.xlsx
+*.xls
+*.db
+*.yaml
+
+
